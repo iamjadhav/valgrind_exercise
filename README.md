@@ -4,8 +4,8 @@ Valgrind Exercise for ENPM808X
 
 # Travis and Coveralls
 
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Build Status](https://app.travis-ci.com/iamjadhav/valgrind_exercise.svg?branch=develop_valgrind)](https://app.travis-ci.com/iamjadhav/valgrind_exercise)
+[![Coverage Status](https://coveralls.io/repos/github/iamjadhav/valgrind_exercise/badge.svg?branch=main)](https://coveralls.io/github/iamjadhav/valgrind_exercise?branch=main)
 ---
 
 ## Overview
